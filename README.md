@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshini Subbiah 👋</h1> <h3 align="center"> Electronics & Communication Engineering Student | Embedded Systems | Artificial Intelligence | Robotics </h3> <p align="center"> Passionate about designing intelligent embedded systems by integrating hardware, software, and AI to solve real-world engineering challenges. <p align="center"> <a href="https://www.linkedin.com/in/harshini-subbiah-46399928a">LinkedIn</a> • <a href="mailto:harshiniche2006@gmail.com">Email</a> </p>
+<h1 align="center"> Harshini Subbiah </h1> <h3 align="center"> Electronics & Communication Engineering Student | Embedded Systems | Artificial Intelligence | Robotics </h3> <p align="center"> Passionate about designing intelligent embedded systems by integrating hardware, software, and AI to solve real-world engineering challenges. <p align="center"> <a href="https://www.linkedin.com/in/harshini-subbiah-46399928a">LinkedIn</a> • <a href="mailto:harshiniche2006@gmail.com">Email</a> </p>
 ---
 
 ## 👩‍💻 About Me
