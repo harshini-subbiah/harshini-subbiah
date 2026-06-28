@@ -1,93 +1,84 @@
-# Hi there, I'm Harshini Subbiah 👋
-# ECE, VIT CHENNAI
-I'm an Final year Electronics and Communication Engineering student passionate about building intelligent embedded systems, robotics applications, and communication technologies. I enjoy combining hardware and software to develop practical solutions in AI, IoT, signal processing, and autonomous systems.
+<h1 align="center">Hi, I'm Harshini Subbiah 👋</h1>
+
+<h3 align="center">
+Electronics & Communication Engineering Student • Embedded Systems • AI • Robotics
+</h3>
+
+<p align="center">
+Building intelligent embedded systems by combining hardware, software, and artificial intelligence to solve real-world engineering problems.
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
--  Electronics and Communication Engineering Student
--  Interested in Embedded Systems, Artificial Intelligence, and Robotics
--  Passionate about Communication Systems and Signal Processing
--  Exploring Embedded AI, Computer Vision, and Edge Computing
--  Always learning through hands-on projects and research
+- 🎓 Electronics & Communication Engineering Student
+- 💡 Passionate about Embedded Systems, Artificial Intelligence, and Robotics
+- 🤖 Interested in Computer Vision, Edge AI, and Autonomous Systems
+- 📡 Enthusiastic about Communication Systems and Signal Processing
+- 🚀 Building practical engineering solutions through hands-on projects
 
 ---
 
-##  Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-- Java
-- C
-- Python
-- MATLAB
-- VHDL
-- Assembly (8051)
+### Languages
+`Java` • `C` • `Python` • `MATLAB` • `VHDL` • `Assembly`
 
 ### Embedded Systems
-- STM32
-- ESP32
-- Arduino
-- 8051 Microcontrollers
-- MPU9255 / IMU Sensors
-- UART, SPI, I2C
-- STM32 X-CUBE-AI
+`STM32` • `ESP32` • `Arduino` • `8051` 
 
 ### AI & Robotics
-- Machine Learning
-- ROS Noetic
-- Sensor Fusion
-- Digital Signal Processing
+`Machine Learning` • `ROS Noetic` • `OpenCV`  • `Sensor Fusion`
 
-### Networking & Communication
-- Cisco Packet Tracer
-- TCP/IP
-- VLAN
-- DNS
-- ACL
-- Wireless Networks
+### Communication & Networking
+`TCP/IP` • `Cisco Packet Tracer` • `VLAN` • `DHCP` • `DNS` • `ACL`
 
-### Tools & Platforms
-- OpenCV
-- NumPy
-- RViz
-- Cadence Virtuoso
-- MATLAB
+### Tools
+ • `Cadence Virtuoso` • `MATLAB` • `RViz`
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 - ROS Noetic 3D Semantic Environment Reconstruction
 - ESP32 Real-Time Snore & Sleep Apnea Detection
 - STM32 Parkinson's Tremor Detection System
-- Smart Hostel Network Design using Cisco Packet Tracer
+- Smart Hostel Network Design (Cisco Packet Tracer)
 - Robust RIS Vehicular Platoon Communication
 - Energy-Aware Underwater Acoustic Communication Simulator
 - IR Sensor Controlled Automobile
-- Low-Power Full Adder Analysis using Cadence Virtuoso
+- Low-Power Full Adder Analysis (Cadence Virtuoso)
 
 ---
 
-## Areas of Interest
+## 🔬 Areas of Interest
 
 - Embedded Systems
 - Artificial Intelligence
-- Robotics & Autonomous Systems
-- Computer Vision
-- Digital Signal Processing
-- Wireless Communication Systems
+- Robotics
+- Signal Processing
+- Wireless Communication
 - Edge AI
 - IoT
 
 ---
 
----
+## 📫 Connect With Me
 
-##  Connect With Me
-
-- LinkedIn: *(Add your LinkedIn URL here)*
-- Email : harshiniche2006@gmail.com 
----
-
-*"Building intelligent systems by bridging hardware and software."*
+- 💼 LinkedIn: 
+- 📧 Email: 
