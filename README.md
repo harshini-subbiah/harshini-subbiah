@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harshini Subbiah 👋</h1> <h3 align="center"> Electronics & Communication Engineering Student | Embedded Systems | Artificial Intelligence | Robotics </h3> <p align="center"> Passionate about designing intelligent embedded systems by integrating hardware, software, and AI to solve real-world engineering challenges. </p> <p align="center"> <a href="https://github.com/harshini-subbiah">GitHub</a> • <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL@gmail.com">Email</a> </p>
+<h1 align="center">Hi, I'm Harshini Subbiah 👋</h1> <h3 align="center"> Electronics & Communication Engineering Student | Embedded Systems | Artificial Intelligence | Robotics </h3> <p align="center"> Passionate about designing intelligent embedded systems by integrating hardware, software, and AI to solve real-world engineering challenges.  <a href="https://www.linkedin.com/in/harshini-subbiah-46399928a">LinkedIn</a> • <a href="mailto:harshiniche2006@gmail.com">Email</a> </p>
 ---
 
 ## 👩‍💻 About Me
@@ -26,7 +26,7 @@
 `TCP/IP` • `Cisco Packet Tracer` • `VLAN` • `DHCP` • `DNS` • `ACL`
 
 ### Tools
- • `Cadence Virtuoso` • `MATLAB` • `RViz`
+ • `Cadence Virtuoso` • `MATLAB` • `RViz` • `RiskSpectrum`
 
 ---
 
@@ -57,5 +57,5 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: 
-- 📧 Email: 
+- 💼 **LinkedIn:** [harshini-subbiah](https://www.linkedin.com/in/harshini-subbiah-46399928a)
+- 📧 **Email:** [harshiniche206@gmail.com](mailto:harshiniche206@gmail.com)
